@@ -53,4 +53,4 @@ const SuggestedPosts = ({ className, header, posts = [], tags }) => {
   );
 };
 
-export default SuggestedPosts;
+export default SuggestedPosts; 
